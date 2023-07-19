@@ -1,6 +1,6 @@
 ## Sergio Jose dos Santos Junior
 
-- Estudando Tecnologia da Informação pela UNIVESP.
+- Bacharel em Tecnologia da Informação
 - Interessado em Programação e Ciência de Dados.
 
 <!---
